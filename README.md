@@ -40,7 +40,4 @@ cd repository
 ## Some screenshots from the application
 
 
-![Image 1](https://github.com/user-attachments/assets/c5f3c66d-e91b-403a-bbc8-922098820723)
-![Image 2](https://github.com/user-attachments/assets/d688fb87-d2ab-41b8-9d2f-d044a62c5c4f)
-![Image 3](https://github.com/user-attachments/assets/6466e7e4-6e3d-46e0-9578-1f6203aafc66)
-![Image 4](https://github.com/user-attachments/assets/3922421e-2bb9-4275-8834-fdf8f1debaf3)
+
