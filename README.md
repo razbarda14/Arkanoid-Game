@@ -39,15 +39,4 @@ cd repository
 
 ## Some screenshots from the application
 
-https://github.com/razbarda14/Arkanoid-Game
-
-Screenshot 2024-09-24 163127.html
-
-https://github.com/razbarda14/Arkanoid-Game/blob/main/Screenshot%202024-09-24%20163127.png
-
-Screenshot 2024-09-24 163127.png
-
-![image](https://github.com/user-attachments/assets/de23453c-2497-46e2-b3ec-0a8fec7c2ba1)
-
-https://github.com/razbarda14/Arkanoid-Game/blob/main/Screenshot%202024-09-24%20163127.png?raw=true
 
