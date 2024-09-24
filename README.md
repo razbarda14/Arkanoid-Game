@@ -22,7 +22,6 @@ With engaging gameplay and increasing difficulty, this game provides a lot of en
 To run the Arkanoid game on your local machine, follow these steps:
 
 1. Clone the Repository:
-2. 
 ```bash
 git clone https://github.com/username/repository.git
 cd repository
