@@ -40,4 +40,4 @@ cd repository
 ## Some screenshots from the application
 
 
-
+https://github.com/razbarda14/Arkanoid-Game/blob/main/Screenshot%202024-09-24%20163405.png
