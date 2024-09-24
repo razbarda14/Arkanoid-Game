@@ -1,4 +1,10 @@
+# Some screenshots from the game 
 
+![Screenshot 2024-09-24 163127](https://github.com/user-attachments/assets/1df3b6f8-b1d0-49fb-99e1-b35189cb523a)
+
+![Screenshot 2024-09-24 163239](https://github.com/user-attachments/assets/45bfacf0-c424-46ad-8bfb-42632ae2b5f9)
+
+![Screenshot 2024-09-24 163405](https://github.com/user-attachments/assets/2326d535-1e83-47c6-9925-afaa39a73a4d)
 # Arkanoid Game
 
 Welcome to the Arkanoid Game! This is a classic brick-breaking game where players control a paddle to bounce a ball and break bricks across multiple levels.
@@ -38,11 +44,5 @@ cd repository
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- Some screenshots from the application
 
-![Screenshot 2024-09-24 163127](https://github.com/user-attachments/assets/1df3b6f8-b1d0-49fb-99e1-b35189cb523a)
-
-![Screenshot 2024-09-24 163239](https://github.com/user-attachments/assets/45bfacf0-c424-46ad-8bfb-42632ae2b5f9)
-
-![Screenshot 2024-09-24 163405](https://github.com/user-attachments/assets/2326d535-1e83-47c6-9925-afaa39a73a4d)
 
